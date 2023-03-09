@@ -10,3 +10,4 @@ suite level testing
 black box testing
 whitebox testing
 regression testing
+Testing phase completed and ready to deployment

@@ -6,3 +6,7 @@ Add database
 Add UI
 Ui design 
 GUID interface
+suite level testing
+black box testing
+whitebox testing
+regression testing
